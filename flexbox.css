@@ -1,0 +1,84 @@
+.main {
+    display: flex;
+}
+
+.main1 {
+    display: flex;
+    flex-direction: column;
+}
+
+#sarga3 {
+    background-color: yellow;
+    width: 100%;
+    height: 300pt;
+    flex: 1;
+}
+
+#zold {
+    background-color: green;
+    width: 100%;
+    height: 300pt;
+    flex: 1;
+}
+
+#sarga {
+    background-color: yellow;
+    width: 100%;
+    height: 300pt;
+    flex: 2;
+}
+
+#lila {
+    background-color: purple;
+    width: 100%;
+    height: 300pt;
+    flex: 1;
+}
+
+#lila1 {
+    background-color: purple;
+    width: 100%;
+    height: 300pt;
+    flex: 1;
+    order: 1;
+}
+
+#zold1 {
+    background-color: green;
+    width: 100%;
+    height: 300pt;
+    flex: 1;
+    order: 3;
+}
+
+#sarga1 {
+    background-color: yellow;
+    width: 100%;
+    height: 300pt;
+    flex: 2;
+    order: 2;
+}
+
+#lila2 {
+    background-color: purple;
+    width: 100%;
+    height: 300pt;
+    flex: 1;
+    order: 2;
+}
+
+#zold2 {
+    background-color: green;
+    width: 100%;
+    height: 300pt;
+    flex: 1;
+    order: 1;
+}
+
+#sarga2 {
+    background-color: yellow;
+    width: 100%;
+    height: 300pt;
+    flex: 2;
+    order: 3;
+}
