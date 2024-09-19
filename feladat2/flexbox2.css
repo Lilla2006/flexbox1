@@ -4,6 +4,7 @@
     height: 300pt;
     position: relative;
     display: flex;
+    align-items: center;
 }
 
 #zold {
@@ -41,6 +42,7 @@ li {
     width: 100%;
     height: 400pt;
     display: flex;
+    align-items: center;
 }
 
 #lila2 {
@@ -48,8 +50,6 @@ li {
     width: 100pt;
     height: 100pt;
     order: 1;
-    margin-top: auto;
-    margin-bottom: auto;
     margin-right: 5pt;
 }
 
@@ -76,6 +76,7 @@ li {
     height: 400pt;
     display: flex;
     justify-content: flex-end;
+    align-items: flex-end;
 }
 
 #lila4 {
@@ -83,6 +84,5 @@ li {
     width: 100pt;
     height: 100pt;
     order: 1;
-    margin-top: auto;
     margin-left: 5pt;
 }
